@@ -1,14 +1,14 @@
 a Small Library For Generate an Unique Alphanumeric
 ____________________________________________________________
 
-Inittial
+Inittial<br />
 use Utils\RandomStringGenerator;
 
-// Create new instance of generator class.
+// Create new instance of generator class.<br />
 $generator = new RandomStringGenerator;
 
-// Set token length.
+// Set token length.<br />
 $tokenLength = 32;
 
-// Call method to generate random string.
+// Call method to generate random string.<br />
 $token = $generator->generate($tokenLength);
