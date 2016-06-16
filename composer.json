@@ -1,0 +1,18 @@
+{
+    "name": "bonds23/alphanumnique",
+    "description": "a Small library for generate a unique alphanumeric",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bonds E.P",
+            "email": "info@bondan.biz"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Bonds23\\Alphanumnique\\": "src/Alphanumnique"
+        }
+    }
+}
