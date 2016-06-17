@@ -1,6 +1,7 @@
 {
     "name": "bonds23/alphanumnique",
     "description": "a Small library for generate a unique alphanumeric",
+    "keywords": ["alphanumeric", "unique","generator"],
     "license": "MIT",
     "authors": [
         {
