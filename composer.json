@@ -1,7 +1,8 @@
 {
     "name": "bonds23/alphanumnique",
+    "type": "library",
     "description": "a Small library for generate a unique alphanumeric",
-    "keywords": ["alphanumeric", "unique","generator"],
+    "keywords": ["alphanumeric", "unique","generator","token"],
     "license": "MIT",
     "authors": [
         {
@@ -9,7 +10,6 @@
             "email": "info@bondan.biz"
         }
     ],
-    "minimum-stability": "dev",
     "require": {},
     "autoload":{
         "psr-4":{
