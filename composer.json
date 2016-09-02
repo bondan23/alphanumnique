@@ -13,7 +13,7 @@
     "require": {},
     "autoload":{
         "psr-4":{
-            "Bonds23\\Alphanumnique\\": "src/Alphanumnique"
+            "Bonds23\\": "src/Alphanumnique/"
         }
     }
 }

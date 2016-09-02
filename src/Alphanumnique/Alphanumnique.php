@@ -1,6 +1,6 @@
 <?php
 
-namespace Bonds23\Alphanumnique;
+namespace Bonds23;
 
 /**
  * Class RandomStringGenerator
