@@ -2,10 +2,10 @@ a Small Library For Generate an Unique Alphanumeric
 ____________________________________________________________
 
 Inittial<br />
-use Utils\RandomStringGenerator;
+use Bonds23\Alphanumnique;
 
 // Create new instance of generator class.<br />
-$generator = new RandomStringGenerator;
+$generator = new Alphanumnique;
 
 // Set token length.<br />
 $tokenLength = 32;
